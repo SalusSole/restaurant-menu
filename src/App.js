@@ -8,7 +8,7 @@ function App() {
         {/* <img src='images/cafeteria-mirador.png' alt=""/> */}
       <header className="App-header">
       </header>
-      <AdminMenu />
+      {/* <AdminMenu /> */}
       <Menu />
     </div>
   );
